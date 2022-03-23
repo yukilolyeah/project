@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 change 02
+=======
+change 01
+>>>>>>> 3ef0d6a (new text)
